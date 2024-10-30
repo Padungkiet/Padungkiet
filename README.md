@@ -31,4 +31,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<a href="https://github.com/Padungkiet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padungkiet&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    </a></p>### Badges
