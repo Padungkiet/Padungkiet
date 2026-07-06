@@ -1,24 +1,46 @@
-Hi 👋 My name is Padungkiet Kunkeaw
-===================================
 
-* 🌍  I'm based in Phayao, Thailand
-* 🖥️  See my portfolio at [Website](http://https://padungkiet.github.io/My-Portfolio/)
-* ✉️  You can contact me at [Paadungkiet@gmail.com](mailto:Paadungkiet@gmail.com)
-* 🧠  I'm learning Flutter framework
-
-<a href="https://www.github.com/Padungkiet" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Padungkiet?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/Padungkiet.Kunkeaw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Padungkiet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
+Padungkiet Kunkeaw
+Padungkiet · he/him
+studying at Phayao University. Com-Sci
+ 1 follower · 4 following
+University of Phayao
+Phayao, Thailand
+22:13 (UTC +07:00)
+Highlights
+ Pro
+Find a repository…
+smart-tire-flutter Public
+Smart Tire Health Monitoring System
+Updated on Jan 14
+smart-tire-flutter-1 Public
+Forked from Jiraenoone/smart-tire-flutter
+my final project
+ Dart Updated on Jan 8
+Padungkiet Public
+Config files for my GitHub profile.
+config
+github-config
+Updated on Jun 25, 2025
+RoadMate Public
+แอปพลิเคชันช่วยนำทางและตรวจสุขภาพรถด้วยปัญญาประดิษฐ์
+Updated on Jun 25, 2025
+app_v1 Public
+ Dart Updated on Jun 16, 2025
+MYPORTFOLIO Public
+My portfilio at UP term 2/2
+Updated on Nov 12, 2024
+WEBAPP Public
+High School Project
+Updated on Nov 10, 2024
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
