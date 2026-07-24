@@ -99,9 +99,8 @@
 
 # 🌍 Languages
 
-🇹🇭 Thai — Native
-
-🇬🇧 English — A2+
+Thai — Native
+English — A2+
 
 ---
 
@@ -126,17 +125,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Padungkiet&theme=github-dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚗 Smart Tire Health Monitoring | AI-based tire tread depth measurement using YOLO11 + SegFormer |
-| 📱 RoadMate | AI-powered vehicle assistant built with Flutter |
-| 💻 WEBAPP | Full-stack web application projects |
-| 🖼️ Image Processing | MATLAB & Computer Vision experiments |
 
 ---
 
