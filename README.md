@@ -148,16 +148,6 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 </p>
 
 ---
-
-<p align="center">
-
-<i>"Building intelligent software that creates real-world impact."</i>
-
-</p>
