@@ -99,8 +99,8 @@
 
 # 🌍 Languages
 
-Thai — Native
-English — A2+
+- Thai — Native
+- English — A2+
 
 ---
 
