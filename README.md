@@ -24,11 +24,10 @@
 
 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
 
-📱 Experienced in **Flutter Mobile Application Development**
+📱 Experienced in **AI & Flutter Mobile Application Development**
 
 🚗 Currently developing an **AI-powered Tire Tread Depth Measurement System**
 
-🌱 Always learning new technologies and building software that solves real-world problems.
 
 ---
 
