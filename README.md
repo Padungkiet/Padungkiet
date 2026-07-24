@@ -97,49 +97,6 @@
 
 ---
 
-# 🚀 Academic Project
-
-## AI-based Tire Tread Depth Measurement System
-
-AI-powered Computer Vision system for automatic tire tread depth measurement.
-
-### Pipeline
-
-```text
-Image
-   │
-   ▼
-YOLO Detection
-   │
-   ▼
-SegFormer
-   │
-   ▼
-Calibration & Regression
-   │
-   ▼
-Depth Output
-```
-
-### Highlights
-
-- 🚗 YOLO11 Object Detection
-- 🧠 SegFormer-B2
-- 📐 Calibration & Polynomial Regression
-- 📱 Flutter Mobile Application
-- 🎯 Mean Absolute Error (MAE): **0.62 mm**
-
----
-
-# 💡 Professional Strengths
-
-- 🧠 Analytical Thinking
-- 🚀 Self-Learning
-- 📈 Product-Oriented Thinking
-- 💼 Business Mindset
-
----
-
 # 🌍 Languages
 
 🇹🇭 Thai — Native
