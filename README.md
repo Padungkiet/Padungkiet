@@ -1,28 +1,210 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Padungkiet Kunkeaw
-===========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Padungkiet Kunkeaw</h1>
 
-Computer Science Student | AI & Software Developer
---------------------------------------------------
-
-* ✉️  You can contact me at [k.padungkiet@gmail.com](mailto:k.padungkiet@gmail.com)
-* 🧠  I'm currently learning Machine Learning, Computer Vision, and Modern Software Development.
-* 💬  Ask me about excited to build meaningful software.
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+<p align="center">
+  <b>AI Engineer • Computer Vision • Flutter Developer</b>
 </p>
 
-### Socials
+<p align="center">
+  Building AI solutions that solve real-world problems.
+</p>
 
-<p align="left"> <a href="https://www.github.com/Padungkiet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/padungkiet-kunkaew-79442a420/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1500&color=4F8EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Computer+Vision;Flutter+Developer;Machine+Learning;Always+Learning"/>
+</p>
 
-<b>My GitHub Stats</b>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Padungkiet&style=flat-square"/>
+</p>
 
-<a href="http://www.github.com/Padungkiet"><img src="https://github-readme-stats.vercel.app/api?username=Padungkiet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7c2d12&hide_border=true&show_icons=true" alt="Padungkiet's GitHub stats" /></a>
+---
 
-<a href="https://github.com/Padungkiet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padungkiet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7c2d12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 👨🏻‍💻 About Me
 
-<b>Top Repositories</b>
+🎓 Fourth-year Computer Science Student at **University of Phayao**
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**
+
+📱 Experienced in **Flutter Mobile Application Development**
+
+🚗 Currently developing an **AI-powered Tire Tread Depth Measurement System**
+
+🌱 Always learning new technologies and building software that solves real-world problems.
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,dart,mysql"/>
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ultralytics%20YOLO-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SegFormer-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CNN-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Transformer-7B1FA2?style=for-the-badge"/>
+
+</p>
+
+**Skills**
+
+- Deep Learning
+- Computer Vision
+- Image Processing
+- Data Augmentation
+- Model Training
+- Model Evaluation
+- Hyperparameter Tuning
+
+---
+
+### 📱 Mobile Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
+
+<img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,linux,postman"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</p>
+
+---
+
+# 🚀 Academic Project
+
+## AI-based Tire Tread Depth Measurement System
+
+AI-powered Computer Vision system for automatic tire tread depth measurement.
+
+### Pipeline
+
+```text
+Image
+   │
+   ▼
+YOLO Detection
+   │
+   ▼
+SegFormer
+   │
+   ▼
+Calibration & Regression
+   │
+   ▼
+Depth Output
+```
+
+### Highlights
+
+- 🚗 YOLO11 Object Detection
+- 🧠 SegFormer-B2
+- 📐 Calibration & Polynomial Regression
+- 📱 Flutter Mobile Application
+- 🎯 Mean Absolute Error (MAE): **0.62 mm**
+
+---
+
+# 💡 Professional Strengths
+
+- 🧠 Analytical Thinking
+- 🚀 Self-Learning
+- 📈 Product-Oriented Thinking
+- 💼 Business Mindset
+
+---
+
+# 🌍 Languages
+
+🇹🇭 Thai — Native
+
+🇬🇧 English — A2+
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Padungkiet&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padungkiet&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Padungkiet&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Padungkiet&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚗 Smart Tire Health Monitoring | AI-based tire tread depth measurement using YOLO11 + SegFormer |
+| 📱 RoadMate | AI-powered vehicle assistant built with Flutter |
+| 💻 WEBAPP | Full-stack web application projects |
+| 🖼️ Image Processing | MATLAB & Computer Vision experiments |
+
+---
+
+# 📫 Contact Me
+
+<p>
+
+<a href="mailto:k.padungkiet@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Building intelligent software that creates real-world impact."</i>
+
+</p>
