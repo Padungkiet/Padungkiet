@@ -26,8 +26,6 @@
 
 📱 Experienced in **AI & Flutter Mobile Application Development**
 
-🚗 Currently developing an **AI-powered Tire Tread Depth Measurement System**
-
 
 ---
 
