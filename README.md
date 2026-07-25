@@ -55,7 +55,7 @@
 </p>
 
 **Skills & Core Competencies**
-- **Computer Vision:** Image Processing, Object Detection (YOLO11), Text Recognition / OCR (CRNN)
+- **Computer Vision:** Image Processing, Object Detection
 - **Deep Learning:** CNN Architecture, Transformers, Model Fine-Tuning & Hyperparameter Optimization
 - **Data & Signal Processing:** Data Augmentation, Mathematical Morphology, Statistical Filtering (IQR, Z-Score)
 
