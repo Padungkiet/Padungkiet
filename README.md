@@ -33,53 +33,42 @@
 
 # 🛠 Tech Stack
 
+# 🛠 Tech Stack
+
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,dart,mysql"/>
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,c,js,html,css" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
+### 🤖 AI, Machine Learning & Computer Vision
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Ultralytics%20YOLO-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SegFormer-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CNN-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformer-7B1FA2?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-**Skills**
+<p>
+  <img src="https://img.shields.io/badge/Ultralytics%20YOLO11-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CRNN-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SegFormer-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformer-7B1FA2?style=for-the-badge"/>
+</p>
 
-- Deep Learning
-- Computer Vision
-- Image Processing
-- Data Augmentation
-- Model Training
-- Model Evaluation
-- Hyperparameter Tuning
+**Skills & Core Competencies**
+- **Computer Vision:** Image Processing, Object Detection (YOLO11), Text Recognition / OCR (CRNN)
+- **Deep Learning:** CNN Architecture, Transformers, Model Fine-Tuning & Hyperparameter Optimization
+- **Data & Signal Processing:** Data Augmentation, Mathematical Morphology, Statistical Filtering (IQR, Z-Score)
 
 ---
 
-### 📱 Mobile Development
+### 📱 Mobile, Backend & Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
-
-<img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,sqlite,mysql,firebase" />
+  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
@@ -87,11 +76,17 @@
 ### 🧰 Tools & Platforms
 
 <p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,linux,postman" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,linux,postman"/>
+---
 
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Padungkiet&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padungkiet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
